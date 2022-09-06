@@ -7,7 +7,7 @@ theme: vanilla-bootstrap-hugo-theme
 # The value of pre is the icon name
 menu:
   nav:
-  - name: Hello!
+  - name: Zachary Feng
     pre: home
     url: /
     weight: 1
