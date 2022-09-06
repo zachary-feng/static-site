@@ -21,7 +21,7 @@ menu:
     weight: 3
   - name: CV
     pre: download
-    url: /cv/
+    url: /cv.pdf
     weight: 4
 
 params:
