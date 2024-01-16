@@ -19,10 +19,14 @@ menu:
     pre: coffee
     url: /research/
     weight: 3
+  - name: Notes
+    pre: book-open
+    url: /notes/
+    weight: 4
   - name: CV
     pre: download
     url: /cv.pdf
-    weight: 4
+    weight: 5
 
 params:
   includeBootstrapJs: false
