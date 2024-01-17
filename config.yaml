@@ -19,9 +19,9 @@ menu:
     pre: coffee
     url: /research/
     weight: 3
-  - name: Notes
+  - name: Learning
     pre: book-open
-    url: /notes/
+    url: /learning/
     weight: 4
   - name: CV
     pre: download
