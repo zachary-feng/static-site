@@ -12,15 +12,17 @@ All talks will be held on **Thursdays, 11.15 to 12.30 in C2**. Please email me i
 {{< bootstrap-table "table table-light table-striped table-bordered" >}}
 |   Week Number  | Topic | Speaker |
 |:---------------|:------|:--------|
-| Week 2, Jan 25 | TBD | TBD |
-| Week 3, Feb 1  | TBD | TBD |
-| Week 4, Feb 8  | TBD | TBD |
-| Week 5, Feb 15 | TBD | TBD |
-| Week 6, Feb 22 | TBD | TBD |
-| Week 7, Feb 29 | TBD | TBD |
-| Week 8, Mar 7  | TBD | TBD |
+| Week 2, Jan 25 | mod p representations of GL2(Qp) | Alex |
+| Week 3, Feb 1  | mod p Galois representations; mod p LLC for GL(2) | James T |
+| Week 4, Feb 8  | Banach space representations | Mick |
+| Week 5, Feb 15 | (phi,Gamma)-modules | Arun |
+| Week 6, Feb 22 | Definition of the Montreal functor | Zach |
+| Week 7, Feb 29 | Properties of the Montreal functor | Havard |
+| Week 8, Mar 7  | p-adic LLC for GL2(Qp) | James N |
 {{< /bootstrap-table >}}
 
 #### References
 
+- Laurent Berger, [La correspondance de Langlands locale p-adique pour GL2(Qp)](http://www.numdam.org/book-part/AST_2011__339__157_0/)
+- Gergely Jakovac, [p-adic representations and the Montreal functor](https://www.math.elte.hu/thesisupload/thesisfiles/2023msc_mat2y-wwmo8o.pdf)
 - Vytautas Paskunas, [The image of Colmez's Montreal functor](http://www.numdam.org/item/PMIHES_2013__118__1_0/)
