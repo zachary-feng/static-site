@@ -10,15 +10,15 @@ This is the homepage for the weekly study group on Colmez's Montreal functor org
 All talks will be held on **Thursdays, 11.15 to 12.30 in C2**. Please email me if you would like to be added to or removed from the current mailing list.
 
 {{< bootstrap-table "table table-light table-striped table-bordered" >}}
-|   Week Number  | Topic | Speaker |
-|:---------------|:------|:--------|
-| Week 2, Jan 25 | mod p representations of GL2(Qp) | Alex |
-| Week 3, Feb 1  | mod p Galois representations; mod p LLC for GL(2) | James T |
-| Week 4, Feb 8  | Banach space representations | Mick |
-| Week 5, Feb 15 | (phi,Gamma)-modules | Arun |
-| Week 6, Feb 22 | Definition of the Montreal functor | Zach |
-| Week 7, Feb 29 | Properties of the Montreal functor | Havard |
-| Week 8, Mar 7  | p-adic LLC for GL2(Qp) | James N |
+|   Week Number  | Topic | Speaker | Notes |
+|:---------------|:------|:--------|:----|
+| Week 2, Jan 25 | mod p representations of GL2(Qp) | Alex | [Notes](/study-groups/montreal-functor/week-2-alex.pdf) |
+| Week 3, Feb 1  | mod p Galois reps; mod p LLC for GL2(Qp) | Zach | Notes |
+| Week 4, Feb 8  | Banach space representations | Mick | Notes |
+| Week 5, Feb 15 | (phi,Gamma)-modules | Arun | Notes |
+| Week 6, Feb 22 | Definition of the Montreal functor | James T | Notes |
+| Week 7, Feb 29 | Properties of the Montreal functor | Havard | Notes |
+| Week 8, Mar 7  | p-adic LLC for GL2(Qp) | James N | Notes |
 {{< /bootstrap-table >}}
 
 #### References
