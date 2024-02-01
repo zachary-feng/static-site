@@ -12,9 +12,9 @@ All talks will be held on **Thursdays, 13.30 to 15.00 in C2**. Please email me i
 {{< bootstrap-table "table table-light table-striped table-bordered" >}}
 |   Week Number  | Topic | Speaker | Notes |
 |:---------------|:------|:--------|:------|
-| Week 2, Jan 25 | GL(2)/Q weight 2 (Eichler-Shimura) | Arun | [Notes](/study-groups/global-reciprocity/week-2-arun.pdf) |
-| Week 3, Feb 1  | GL(2)/Q weight 1 (Deligne-Serre) | Havard | Notes |
-| Week 4, Feb 8  | GL(2)/F real quadratic (Carayol) | Alex | Notes |
+| Week 2, Jan 25 | GL(2)/Q weight 2 (Eichler-Shimura) | Arun | [[Typed](/study-groups/global-reciprocity/week-2-arun.pdf)] |
+| Week 3, Feb 1  | GL(2)/Q weight 1 (Deligne-Serre) | Havard | TBD |
+| Week 4, Feb 8  | GL(2)/F real quadratic (Carayol) | Alex | TBD |
 | Week 5, Feb 15 | TBD | TBD | TBD |
 | Week 6, Feb 22 | TBD | TBD | TBD |
 | Week 7, Feb 29 | TBD | TBD | TBD |

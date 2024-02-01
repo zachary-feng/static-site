@@ -15,3 +15,4 @@ Here are some notes I've written mostly to help with my own understanding on som
 - [Emerton's construction of eigenvarieties via completed cohomology](/notes/completed-cohomology.pdf)
 - [The local Langlands correspondence and the Bernstein-Zelevinsky classification](/notes/local-langlands.pdf)
 - [Local zeta functions and the local functional equation (from Tate's thesis)](/notes/local-zeta-functions.pdf)
+- [mod p Galois representations and the mod p local Langlands correspondence](/notes/mod-p-local-langlands.pdf)
