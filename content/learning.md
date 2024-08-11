@@ -12,6 +12,7 @@ title: "Learning"
 
 Here are some notes I've written mostly to help with my own understanding on some topics. I've uploaded them on the off chance that another student may find them helpful. Please beware of the many lingering typos and errors that may be present.
 
+- [What is a regular algebraic automorphic representation?](/notes/regular-algebraic.pdf)
 - [Emerton's construction of eigenvarieties via completed cohomology](/notes/completed-cohomology.pdf)
 - [The local Langlands correspondence and the Bernstein-Zelevinsky classification](/notes/local-langlands.pdf)
 - [Local zeta functions and the local functional equation (from Tate's thesis)](/notes/local-zeta-functions.pdf)

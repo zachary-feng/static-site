@@ -23,10 +23,6 @@ menu:
     pre: book-open
     url: /learning/
     weight: 4
-  - name: CV
-    pre: download
-    url: /cv.pdf
-    weight: 5
 
 params:
   includeBootstrapJs: false
